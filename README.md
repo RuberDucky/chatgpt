@@ -2,12 +2,12 @@
 
 ***WhatsApp OpenAI Create with NodeJS Using Library [Baileys](https://github.com/adiwajshing/Baileys)***
 
-## BACA DULU
-Terdapat 2 fitur yaitu ```ChatGPT(text)``` dan ```DALL-E(Text To Image)``` tipe yaitu <br>Untuk commandnya menggunakan ```/ai``` dan ```/img```
+## This is ChatGPT WhatsAPP Bot
+Bot```ChatGPT(text)``` and ```DALL-E(Text To Image)``` You can use <br>these commands ```/ai``` and ```/img```
 
 ## Get & Change OpenAI ApiKey
-- Silakan buat apikeynya terlebih dahulu [Disini](https://beta.openai.com/account/api-keys)
-- Ganti ApiKey OpenAI pada file [key.json](https://github.com/Sansekai/Wa-OpenAI/blob/3bd55740764bcb30084277f6be82d15b6ee25b99/key.json#L2)
+- You can get openai API key from here (https://beta.openai.com/account/api-keys)
+- after getting api put API in [key.json]
 
 ## Install
 **Install on RDP/Windows ✅**
@@ -22,7 +22,7 @@ $ node index.js
 ```
 **Install on Termux ✅**
 
-Silakan install manual ```node_modules``` terlebih dahulu, karena di termux saat install otomatis melalui ```npm install``` terjadi error.
+Mannul Install ```node_modules``` You just need to type these commands ```npm install```.
 <br>Link ```node_modules```: [Klik Disini](https://drive.google.com/file/d/1gKGjseRirX6mQ5LOFULpmnDs7q3Svm8y/view?usp=sharing)
 ```bash
 $ pkg install git nodejs -y
