@@ -1,5 +1,5 @@
-const sessionName = "yusril";
-const donet = "https://saweria.co/sansekai";
+const sessionName = "Session";
+const support = "https://youtube.com/@robocode562";
 const owner = ["Your Number with country code"];
 const {
   default: sansekaiConnect,
