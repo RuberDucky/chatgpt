@@ -1,6 +1,6 @@
 # Wa-OpenAI
 
-***WhatsApp OpenAI Create with NodeJS Using Library [Baileys](https://github.com/adiwajshing/Baileys)***
+***WhatsApp OpenAI Create with NodeJS.
 
 ## This is ChatGPT WhatsAPP Bot
 Bot```ChatGPT(text)``` and ```DALL-E(Text To Image)``` You can use <br>these commands ```/ai``` and ```/img```
