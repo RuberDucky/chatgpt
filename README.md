@@ -21,12 +21,14 @@ $ npm install
 $ node index.js
 ```
 **Install on Termux ✅**
+```bash
 pkg install git
 git clone https://github.com/RuberDucky/chatgpt.git
 cd chatgpt
 pkg install nodejs -y
 npm install ```node_modules```: [download](https://drive.google.com/file/d/1gKGjseRirX6mQ5LOFULpmnDs7q3Svm8y/view?usp=sharing)
 npm run start
+```
 
 <br>Link ```node_modules```: [download](https://drive.google.com/file/d/1gKGjseRirX6mQ5LOFULpmnDs7q3Svm8y/view?usp=sharing)
 
