@@ -72,28 +72,21 @@ module.exports = sansekai = async (client, m, chatUpdate, store) => {
       switch (command) {
         case "help":
         case "menu":
-          m.reply(`*Whatsapp Bot OpenAI*
+          m.reply(`*Whatsapp Bot OpenAI, Don't Inbox*
             
 *(ChatGPT)*
 Cmd: ${prefix}ai 
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-╔─═─═⊱ 「 *Ptagdam Chatgpt BOT* 」 ─═─═⬣
+╔─═─═⊱ 「 *CodeBooks Chatgpt BOT* 」 ─═─═⬣
 │┏⊱
-│⿻ /ai  [ Command ] 👈🏻 Yi Fast h
+│⿻ /ai  [ Command ] 👈🏻 Yi Fast 
 │⿻ Openai [ Command ]
-│⿻ Ai [ Command ] 👈🏻 Fast H
-│⿻ Google [ Command ]
-│⿻ Bawaji  [ Command ]
-│⿻ Baba [ Command ]
-│⿻ Abu [ Command ]
-│⿻ Sister [ Command ]
-│⿻ Bhi [ Command ]
-│⿻ Bot [ Command ]
+│⿻ Ai [ Command ] 👈🏻 Fast 
 ║┗⊱
 ┗━━━━━━━━━━━━━━━━━━⬣
 
 *(DALL-E)*
-Cmd: ${prefix}img  or agy apni command `)
+Cmd: ${prefix}img`)
           break;
         case "ai": case "openai": case "Bot": case "Bhi": case "Sister": case "Abu": case "Baba": case "Bawaji": case "Google": case "Ai": case "Openai": case "ia": case " ": case "ai/": 
           try {

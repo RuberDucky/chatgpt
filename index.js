@@ -1,6 +1,6 @@
-const sessionName = "Session";
-const support = "https://youtube.com/@robocode562";
-const owner = ["Your Number with country code"];
+const sessionName = "yusril";
+const donet = "https://saweria.co/sansekai";
+const owner = ["923452029280"];
 const {
   default: sansekaiConnect,
   useSingleFileAuthState,
