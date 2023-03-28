@@ -8,7 +8,11 @@ Bot```ChatGPT(text)``` and ```DALL-E(Text To Image)``` You can use <br>these com
 ## Get & Change OpenAI ApiKey
 - You can get openai API key from here (https://beta.openai.com/account/api-keys)
 - After getting api put API in [key.json]
+<h4 align="center"> Deploy on Repl.it - ( YouTube Tutorial Included & Highly Recommended )
+</h4>
 
+<p align="center" >
+    <a href="https://repl.it/github.com/RuberDucky/chatgpt">
 ## Install
 **Install on RDP/Windows ✅**
 
