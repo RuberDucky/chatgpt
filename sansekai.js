@@ -91,7 +91,7 @@ Cmd: ${prefix}img`)
         case "ai": case "openai": case "Bot": case "Bhi": case "Sister": case "Abu": case "Baba": case "Bawaji": case "Google": case "Ai": case "Openai": case "ia": case " ": case "ai/": 
           try {
             if (setting.keyopenai === "ISI_APIKEY_OPENAI_DISINI") return reply("Apikey belum diisi\n\nSilahkan isi terlebih dahulu apikeynya di file key.json\n\nApikeynya bisa dibuat di website: https://beta.openai.com/account/api-keys");
-            if (!text) return reply(`Chat .\n\nContoh:\n${prefix}${command} Apa itu resesi`);
+            if (!text) return reply(`Chat .\n\nRoboCode:\n${prefix}${command} How can i assit you today?`);
             const configuration = new Configuration({
               apiKey: setting.keyopenai,
             });
