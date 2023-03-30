@@ -1,5 +1,5 @@
-const sessionName = "yusril";
-const donet = "https://saweria.co/sansekai";
+const sessionName = "Session";
+const donet = "https://github.com/RuberDucky";
 const owner = ["923452029280"];
 const {
   default: sansekaiConnect,
@@ -157,7 +157,7 @@ async function startHisoka() {
   const client = sansekaiConnect({
     logger: pino({ level: "silent" }),
     printQRInTerminal: true,
-    browser: ["Wa-OpenAI - Sansekai", "Safari", "3.0"],
+    browser: ["Wa-OpenAI - RoboCode", "Safari", "3.0"],
     auth: state,
   });
 
